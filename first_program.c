@@ -16,7 +16,7 @@ int main() {
     count ++)
 
     {
-        printf("My name is %s\n", name);
+        printf("%s My name is \n", name);
     }
 
     return 0;
