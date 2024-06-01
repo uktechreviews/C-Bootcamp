@@ -6,7 +6,8 @@ int main() {
     printf ("%d \n", a);
     printf ("%d \n", b);
 
-    char name[50] = "Spencer";
+
+    char name[50] = "Spencer Organ";
     printf ("%s \n", name);
 
     int count;
